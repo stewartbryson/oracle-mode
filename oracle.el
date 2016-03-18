@@ -977,7 +977,7 @@ SET linesize 10000"
 
 (defvar sqlplus-startup-message
   (concat 
-   "Emacs SQL*Plus Interpreter:  by Stewart Bryson of Transcendent Data, Inc.\n"
+   "Emacs SQL*Plus Interpreter:  by Stewart Bryson of Red Pill Analytics, LLC.\n"
    "Based on sql-mode.el written by Jim Lange of Oracle Corporation.\n"
    "Enhancements by Thomas Miller to original version are included here.\n"
    "_________________________________________________________________________\n")
