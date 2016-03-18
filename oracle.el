@@ -1,8 +1,7 @@
 ;; Filename:      oracle.el
 ;; Description:   Major Mode for editing sql and pl/sql, and interacting with sqlplus.
-;; Author:        Stewart W. Bryson of Transcendent Data, Inc.
+;; Author:        Stewart W. Bryson of Red Pill Analytics, LLC.
 ;; Maintainer:    Stewart W. Bryson
-;; Compatibility: GNU Emacs 21.x, GNU Emacs 22.x
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;
